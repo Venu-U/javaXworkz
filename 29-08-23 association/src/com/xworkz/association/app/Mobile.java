@@ -1,5 +1,7 @@
 package com.xworkz.association.app;
 
+import com.xwokz.association.app.Charger;
+
 public class Mobile {
 	String shape;
 	private Charger charger;

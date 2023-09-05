@@ -1,5 +1,7 @@
 package com.xworkz.association.app;
 
+import com.xwokz.association.app.Laptop;
+
 public class Trainer {
 
 	String trainerName;

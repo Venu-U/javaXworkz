@@ -1,5 +1,7 @@
 package com.xwokz.association.app;
 
+import com.xworkz.association.app.Passenger;
+
 public class Bus {
 	String type;
 	private Passenger passenger;
