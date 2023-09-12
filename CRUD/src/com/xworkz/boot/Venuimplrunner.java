@@ -11,7 +11,7 @@ public class Venuimplrunner {
 	  repo.save("Ladisfringer");
 	  repo.save("Drumstick");
 	  repo.save("Carrot");
-	  repo.save("Brinjai");
+	  repo.save("Brinjal");
 	  repo.save("Onion");
 	  repo.save("Pumpkin");
 	  repo.save("Tomato");
